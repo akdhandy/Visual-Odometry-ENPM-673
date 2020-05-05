@@ -4,11 +4,17 @@ Python Version: 3.x
 Packages Required:
 
 NumPy
+
 Random
+
 Math
+
 Matplotlib.pyplot 
+
 os
+
 pandas
+
 OpenCV
 
 To run the codes:
