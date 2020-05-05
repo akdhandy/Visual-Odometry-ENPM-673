@@ -23,6 +23,7 @@ To run the codes:
 1.)Run the python files in the current directory which contains all the codes.
 
 2.)Two python scripts namely:
+
 CV_VOM - which uses inbuilt CV functions to solve the Visual Odometry problem
 
 myVOM - which uses our own implementation of functions to solve. 
