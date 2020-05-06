@@ -24,9 +24,9 @@ To run the codes:
 
 2.)Two python scripts namely:
 
-CV_VOM - which uses inbuilt CV functions to solve the Visual Odometry problem
+cvvom - which uses inbuilt CV functions to solve the Visual Odometry problem
 
-myVOM - which uses our own implementation of functions to solve. 
+myvom - which uses our own implementation of functions to solve. 
 
 3.)Place the relative path of the images and the model in both the python scripts CV_VOM and myVOM and run:
 pathimage="/home/arjun/Desktop/VOM/Oxford_dataset/stereo/centre/"
