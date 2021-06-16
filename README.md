@@ -1,21 +1,19 @@
-# ENPM-673-Project-5
-Python Version: 3.x
+# Visual-Inertial-Odometry
+In this project we implement the pipeline for Visual Odometry (VO) from scratch on the Oxford dataset given, and compare it with the implementation using OpenCV built-in functions.
 
-Packages Required:
 
-NumPy
+## DEPENDENCIES: 
+- Python Version: 3.x
+- Matplotlib.pyplot 
+- pandas
+- xlrd
+- OpenCV 3.4 (For the purpose of using SIFT)
 
-Random
+## Authors
 
-Math
-
-Matplotlib.pyplot 
-
-os
-
-pandas
-
-OpenCV
+- [Arjun Srinivasan](https://github.com/aarjunsrinivasan)
+- [Arun Kumar](https://github.com/akdhandy)
+- [Praveen](https://github.com/Praveen1098)
 
 To run the codes:
 
